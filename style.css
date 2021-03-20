@@ -34,16 +34,6 @@ text-decoration: underline;
   font-size: 25px;
 }
 
-
-span{
-  color: white;
-}
-
-.scores{
-margin: 40px;
-
-}
-
 #showquestion::after{
 display: block;
 height: 2px;
