@@ -86,3 +86,12 @@ align-items: center;
   font-family: 'Satisfy', cursive;
 
 }
+
+span{
+  color: white;
+}
+
+.scores{
+margin: 40px;
+
+}
